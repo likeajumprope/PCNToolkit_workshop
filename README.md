@@ -5,6 +5,12 @@
 
 ---
 
+The workshop will consist of 2 parts:
+
+1. A [presentation]() on the theoretical background.
+2. Working together in a [Jupyter Notebook].
+
+
 ## Running this notebook
 
 ### Option 1 — Google Colab (no setup required)
