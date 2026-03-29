@@ -1,5 +1,5 @@
 ## Normative Modelling in the Life Sciences
-## Theory, Practice, and Applications with PCNtoolkit, MCMC, and PyMC
+### Theory, Practice, and Applications with PCNtoolkit, MCMC, and PyMC
 
 <img width="523" height="485" alt="image" src="https://github.com/user-attachments/assets/94a9cc41-1b4f-4588-8b99-18d76c9be8ad" />
 
@@ -11,7 +11,7 @@ The workshop will consist of 2 parts:
 2. Working together in a [Jupyter Notebook].
 
 
-## Running this notebook
+## Running the notebook
 
 ### Option 1 — Google Colab (no setup required)
 
