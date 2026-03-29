@@ -8,7 +8,7 @@
 The workshop will consist of 2 parts:
 
 1. A [presentation](https://github.com/likeajumprope/PCNToolkit_workshop/blob/main/presentation/Normative_modelling.pdf) on the theoretical background.
-2. Working together in a [Jupyter Notebook].
+2. Working together in a [Jupyter Notebook](https://github.com/likeajumprope/PCNToolkit_workshop/blob/main/code/04_HBR_SHASH_didactic.ipynb).
 
 
 ## Running the notebook
